@@ -1,0 +1,30 @@
+{
+    "lessonName": "",
+    "sets": [
+        {
+            "correctWord": "RED",
+            "options": [ "RED", "BLUE", "GREEN" ],
+            "audio": "red.mp3"
+        },
+        {
+            "correctWord": "YELLOW",
+            "options": [ "YELLOW", "BLUE", "PINK" ],
+            "audio": "yellow.mp3"
+        },
+        {
+            "correctWord": "PURPLE",
+            "options": [ "RED", "YELLOW", "PURPLE" ],
+            "audio": "purple.mp3"
+        },
+        {
+            "correctWord": "ORANGE",
+            "options": [ "PURPLE", "ORANGE", "GREEN" ],
+            "audio": "orange.mp3"
+        },
+        {
+            "correctWord": "GREEN",
+            "options": [ "ORANGE", "PINK", "GREEN" ],
+            "audio": "green.mp3"
+        }
+    ]
+}

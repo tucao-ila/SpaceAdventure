@@ -1,0 +1,30 @@
+{
+    "lessonName": "",
+    "sets": [
+        {
+            "correctWord": "APPLE",
+            "options": [ "APPLE", "BANANA", "PEAR" ],
+            "audio": "apple.mp3"
+        },
+        {
+            "correctWord": "ORANGE",
+            "options": [ "ORANGE", "GRAPES", "PINK" ],
+            "audio": "orange.mp3"
+        },
+        {
+            "correctWord": "BANANA",
+            "options": [ "APPLE", "ORANGE", "BANANA" ],
+            "audio": "banana.mp3"
+        },
+        {
+            "correctWord": "PEAR",
+            "options": [ "PEAR", "BANANA", "GRAPES" ],
+            "audio": "pear.mp3"
+        },
+        {
+            "correctWord": "GRAPES",
+            "options": [ "PEAR", "GRAPES", "ORANGE" ],
+            "audio": "grapes.mp3"
+        }
+    ]
+}
